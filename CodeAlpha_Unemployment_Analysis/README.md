@@ -47,7 +47,6 @@ The goal of this project is to clean the data, explore unemployment trends, stud
 - Removed unnecessary spaces in column names
 - Converted date column into datetime format
 - Checked missing values
-- Created Month and Year columns
 
 ### ✅ Exploratory Data Analysis
 - Mean, Maximum, Minimum unemployment rate
